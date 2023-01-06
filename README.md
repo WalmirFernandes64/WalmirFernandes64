@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou Walmir Fernandes</h1>
+<h1 align="center">👋 Olá, sou Walmir Fernandes</h1>
 <h3 align="center">Focado em automações de processos e futuro arquiteto de soluções</h3>
 
 - 🌱 No momento estou cursando **MBA em Arquitetura de Soluções**
