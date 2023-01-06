@@ -3,7 +3,7 @@
 
 - 🌱 No momento estou cursando **MBA em Arquitetura de Soluções**
 
-- 👨‍💻 Todos os meus projetos estarão disponíveis em [https://github.com/WalmirFernades/app-soutiuon-wsf](https://github.com/WalmirFernades/app-soutiuon-wsf)
+- 👨‍💻 Todos os meus projetos estarão disponíveis em [Em Construção]()
 
 - 📫 Voce pode me procurar através do email **walmir_wsf@outlook.com**
 
