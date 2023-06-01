@@ -1,9 +1,12 @@
 <h1 align="center">👋 Olá, sou Walmir Fernandes</h1>
-<h3 align="center">Focado em automações de processos e futuro arquiteto de soluções</h3>
+<h3 align="center">Focado em automações de processos e arquitetura de soluções</h3>
 
-- 🌱 No momento estou cursando **MBA em Arquitetura de Soluções**
+- 🌱 Formações academicas em 
+      -> Eletrônica p/ Automação(Técnico)
+      -> Analise e Desenvolvimento de Sistemas(Tecnólogo)
+      -> Arquitetura de Soluções(MBA)
 
-- 👨‍💻 Todos os meus projetos estarão disponíveis em [Em Construção]()
+- 👨‍💻 Todos os meus projetos estarão disponíveis em breve aqui()
 
 - 📫 Voce pode me procurar através do email **walmir_wsf@outlook.com**
 
