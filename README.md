@@ -1,10 +1,7 @@
 <h1 align="center">👋 Olá, sou Walmir Fernandes</h1>
 <h3 align="center">Focado em automações de processos e arquitetura de soluções</h3>
 
-- 🌱 Formações academicas em 
-      -> Eletrônica p/ Automação(Técnico)
-      -> Analise e Desenvolvimento de Sistemas(Tecnólogo)
-      -> Arquitetura de Soluções(MBA)
+- 🌱 Formações academicas em Eletrônica p/ Automação(Técnico), Analise e Desenvolvimento de Sistemas(Tecnólogo) e Arquitetura de Soluções(MBA)
 
 - 👨‍💻 Todos os meus projetos estarão disponíveis em breve aqui()
 
