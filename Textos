@@ -1,0 +1,32 @@
+
+Para criar indicadores operacionais e de tecnologia para um sistema de expurgo de registros, considerando os requisitos e componentes mencionados, você pode monitorar diversos aspectos para garantir que o sistema funcione de forma eficaz e eficiente. Aqui estão alguns indicadores que você pode considerar:
+
+Indicadores Operacionais:
+
+Taxa de Sucesso de Expurgo: Este indicador mede a porcentagem de registros que foram efetivamente expurgados com sucesso em relação ao total de registros a serem expurgados. Um alto índice de sucesso é desejável.
+
+Tempo de Expurgo Médio: Avalia o tempo médio necessário para expurgar um registro. Isso pode ajudar a identificar gargalos ou ineficiências no processo de expurgo.
+
+Tempo de Processamento Noturno: Mede quanto tempo o processo de expurgo consome durante o período noturno para evitar impactos durante o horário de pico.
+
+Taxa de Erros: Acompanha a porcentagem de expurgos que resultaram em erros. Erros frequentes podem indicar problemas no sistema.
+
+Tempo de Recuperação de Registros Excluídos: Mede quanto tempo leva para recuperar um registro excluído com sucesso. Isso está relacionado à capacidade do sistema de fornecer registros antigos quando solicitados.
+
+Utilização da Capacidade do DynamoDB: Monitora o uso de capacidade (leitura/gravação) no DynamoDB durante o processo de expurgo. Isso pode ajudar a otimizar os recursos.
+
+Indicadores de Tecnologia:
+
+Latência do Lambda: Monitora o tempo que os Lambda functions levam para processar os registros e enviá-los para a fila SQS. Baixa latência é crucial para evitar atrasos.
+
+Taxa de Processamento da Fila SQS: Acompanha a taxa na qual os registros são enviados da fila SQS para a API de exclusão. Isso ajuda a dimensionar a fila adequadamente.
+
+Latência da API de Exclusão: Mede o tempo que a API leva para excluir registros do Elasticsearch. Isso é importante para garantir que a exclusão seja rápida e eficiente.
+
+Disponibilidade da API de Exclusão: Acompanha o tempo de atividade da API em um container para garantir que ela esteja sempre disponível durante o processo de expurgo.
+
+Utilização de Recursos do Container: Monitora a utilização de recursos (CPU, memória) do container que executa a API de exclusão. Isso ajuda a dimensionar corretamente o ambiente de execução.
+
+Tempo de Início do Processo de Expurgo Noturno: Acompanha o tempo em que o processo noturno é iniciado para garantir que ele esteja dentro do período planejado.
+
+Lembre-se de que os indicadores podem variar de acordo com a complexidade e os detalhes específicos do seu sistema. Esses indicadores devem ser definidos com base em metas e requisitos específicos do seu sistema e devem ser acompanhados continuamente para garantir o desempenho ideal e a conformidade com os requisitos operacionais e tecnológicos.
