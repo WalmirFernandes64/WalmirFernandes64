@@ -5,7 +5,7 @@
 
 - 👨‍💻 Todos os meus projetos estarão disponíveis em breve aqui()
 
-- 📫 Voce pode me procurar através do email **walmir_wsf@outlook.com**
+- 📫 Voce pode me procurar através do email **walmir_wsf.dev_arch@outlook.com**
 
 - 📄 Conheça sobre minhas experiências profissionais [https://www.linkedin.com/in/walmirfernandes64/](https://www.linkedin.com/in/walmirfernandes64/)
 
